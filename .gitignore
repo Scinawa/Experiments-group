@@ -1,7 +1,13 @@
+projections
+representations
+representations_cropped
+.DS_store
+__pycache__/
 dataset-simple-graphs/graph7.g6-skew.pickle
 dataset-simple-graphs/graph9.g6-skew.pickle
 HGP-SL-extended/PROTEINS/
 HGP-SL-extended/projections
 HGP-SL-extended/representations
 HGP-SL-extended/representations_cropped
+HGP-SL-extended/*.pth_extended
 HGP-SL-extended/*.pth
