@@ -11,3 +11,5 @@ HGP-SL-extended/representations
 HGP-SL-extended/representations_cropped
 HGP-SL-extended/*.pth_extended
 HGP-SL-extended/*.pth
+dataset-combinatorial-graphs/**/*.pdf
+dataset-combinatorial-graphs/**/*.pickle
